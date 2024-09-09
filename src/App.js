@@ -11,8 +11,8 @@ function App() {
     <div>
       <Capa />
       <Introdução/>
-      <Apresentação />
       <Sumario />
+      <Apresentação />
       <PrimeiroEnc />
     </div>  
   );
