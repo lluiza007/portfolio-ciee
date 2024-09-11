@@ -5,7 +5,7 @@ import styled from "styled-components";
 
 const Capa = () => {
     return (
-        <div style={{backgroundColor: 'white', color: 'black', textAlign: 'center', border: '2px solid black', padding: '20px', borderRadius: '10px'}}>
+        <div style={{backgroundColor: 'white', color: 'black', textAlign: 'center', border: '2px solid black', padding: '20px', borderRadius: '10px', height: '50vh'}}>
             <h1 style={{fontSize: '40px', fontFamily: 'initial'}}>Luiza Oyara</h1>
             <h2 style={{fontFamily:'cursive', fontSize: '30px',}}>Portifólio</h2>
             <nav>
