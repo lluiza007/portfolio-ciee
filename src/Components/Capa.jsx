@@ -1,8 +1,11 @@
 import React from "react";
+import styled from "styled-components";
+
+;
 
 const Capa = () => {
     return (
-        <div>
+        <div style={{backgroundColor: 'white', color: 'black', textAlign: 'center'}}>
             <h1>Luiza Oyara</h1>
             <h2>Portifólio</h2>
             <nav>
