@@ -2,7 +2,7 @@ import React from "react";
 
 const Apresentação = () => {
     return (
-        <div style={{backgroundColor: '#6EA61F', color:'black', textAlign: 'center', border: '2px solid black', padding: '0', borderRadius: '10px', margin:'5px 0', height: '400px'}}>
+        <div style={{backgroundColor: '#1E88A2', color:'black', textAlign: 'center', border: '2px solid black', padding: '0', borderRadius: '10px', margin:'5px 0', height: '400px'}}>
 
             <h1>Sobre Mim</h1>
 
