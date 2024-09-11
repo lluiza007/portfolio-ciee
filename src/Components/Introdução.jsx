@@ -1,4 +1,5 @@
 import React from "react";
+import Portifolio from '../img/portifolio.png'
 
 const Introdução = () => {
     return (
@@ -6,6 +7,8 @@ const Introdução = () => {
 
             <h1>O Que É Um Portifólio?</h1>
             <p>Esse portifólio, em específico, é uma atividade que reúne os principais registros dos encontros online do Programa CIEE, a fim de mostrar para as empresas o que nos foi ensinado.</p>
+
+            <img src={Portifolio} alt="portifolio" style={{width: '300px'}}/>
             
         </div>
     )

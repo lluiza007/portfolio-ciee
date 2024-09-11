@@ -2,7 +2,7 @@ import React from "react";
 
 const Sumario = () => {
     return (
-        <div style={{backgroundColor: 'greenyellow', color: 'black', textAlign: 'center', border: '2px solid black', padding: '0', borderRadius: '10px', margin:'5px 0', height: '400px'}}> 
+        <div style={{backgroundColor: '#01B09F', color: 'black', textAlign: 'center', border: '2px solid black', padding: '0', borderRadius: '10px', margin:'5px 0', height: '400px'}}> 
 
         <h1>Sumário</h1>
         
