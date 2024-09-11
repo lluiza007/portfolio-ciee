@@ -5,11 +5,11 @@ import styled from "styled-components";
 
 const Capa = () => {
     return (
-        <div style={{backgroundColor: 'white', color: 'black', textAlign: 'center'}}>
-            <h1 style={{fontSize: '40px'}}>Luiza Oyara</h1>
-            <h2 style={{fontFamily:'cursive', fontSize: '30px'}}>Portifólio</h2>
+        <div style={{backgroundColor: 'white', color: 'black', textAlign: 'center', border: '2px solid black', padding: '20px', borderRadius: '10px'}}>
+            <h1 style={{fontSize: '40px', fontFamily: 'initial'}}>Luiza Oyara</h1>
+            <h2 style={{fontFamily:'cursive', fontSize: '30px',}}>Portifólio</h2>
             <nav>
-                <ul>
+                <ul style={{textAlign: 'justify'}}>
                     <li>Empresa - Sicoob</li>
                     <li>Programa - CIEE Florianópolis</li>
                     <li>Supervisor -</li>
