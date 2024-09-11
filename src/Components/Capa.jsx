@@ -6,8 +6,8 @@ import styled from "styled-components";
 const Capa = () => {
     return (
         <div style={{backgroundColor: 'white', color: 'black', textAlign: 'center'}}>
-            <h1>Luiza Oyara</h1>
-            <h2>Portifólio</h2>
+            <h1 style={{fontSize: '40px'}}>Luiza Oyara</h1>
+            <h2 style={{fontFamily:'cursive', fontSize: '30px'}}>Portifólio</h2>
             <nav>
                 <ul>
                     <li>Empresa - Sicoob</li>
