@@ -6,6 +6,7 @@ import Sumario from './Components/Sumario';
 import PrimeiroEnc from './Components/PrimeiroEnc';
 import Apresentação from './Components/Apresentação';
 import Conclusão from './Components/Conclusão';
+import SegundoEnc from './Components/SegundoEnc';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Sumario />
       <Apresentação />
       <PrimeiroEnc />
+      <SegundoEnc />
       <Conclusão />
     </div>  
   );
