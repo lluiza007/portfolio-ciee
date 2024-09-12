@@ -12,6 +12,7 @@ const Capa = () => {
 
             <h2 style={{fontFamily:'cursive', fontSize: '40px', width: '200px', position: 'absolute', top: '250px', right: '43%' }}>Portifólio</h2>
 
+            <b>
             <nav>
                 <ul style={{textAlign: 'justify', marginTop: '10%', top: '175px', position:"absolute" }}>
                     <li>Empresa - Sicoob</li>
@@ -19,12 +20,13 @@ const Capa = () => {
                     <li>Supervisor - Gelson</li>
                 </ul>
             </nav>
+            </b>
             
             <h2 style={{fontSize:'35px', width: '350px', position: 'absolute', top:'380px', right: '38%'}}>Breve relato sobre os 10 dias iniciais</h2>
 
-            <img src={Ciee} alt="ciee" style={{width: '200px', position: 'absolute', top: '500px', right: '80%' }}/>
+            <img src={Ciee} alt="ciee" style={{width: '200px', position: 'absolute', top: '500px', right: '85%' }}/>
 
-            <img src={Sicoob} alt="sicoob" style={{width: '220px', position: 'absolute', top:'515px', right: '60%', }}/>
+            <img src={Sicoob} alt="sicoob" style={{width: '220px', position: 'absolute', top:'515px', right: '70%', }}/>
 
         </div>
     )
