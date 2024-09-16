@@ -7,7 +7,7 @@ const Sumario = () => {
 
         <h1>Sumário</h1>
         
-        <nav>
+        <nav className="list">
             <ul>
                 <li>01.ENCONTRO 1 - Lei Da Aprendizagem....Pg.2</li>
                 <li>02.QUEM SOU EU............................................Pg.3</li>

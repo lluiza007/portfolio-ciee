@@ -7,6 +7,7 @@ import PrimeiroEnc from './Components/PrimeiroEnc';
 import Conclusão from './Components/Conclusão';
 import SegundoEnc from './Components/SegundoEnc';
 
+
 function App() {
   return (
     <div>
