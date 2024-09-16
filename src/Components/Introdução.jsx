@@ -1,5 +1,6 @@
 import React from "react";
 import "../Styles/Introdução.css";
+import Portifolio from '../img/portifolio.png';
 
 const Introducao = () => {
     return (
@@ -14,6 +15,12 @@ const Introducao = () => {
                 <p>Olá, me chamo Luiza Oyara Garcia Abreu, tenho 17 anos e estou atualmente cursando o último ano do ensino médio.</p>
                  
             </div>
+
+            <div className="image">
+                <img src={Portifolio} alt="portifolio"></img>
+
+            </div>
+
         </div>
     )
 }
