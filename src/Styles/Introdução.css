@@ -1,8 +1,6 @@
 .container{
    
     background-color: black;
-    border-radius: 10px;
-    border: 2px solid black;
     color: black;
     display: flex;
     align-items: center;
@@ -10,7 +8,7 @@
     text-align: center;
     position: relative;
     height: 500px;
-    margin-top: 7px;
+    margin-top: 2px;
    
 }
 
