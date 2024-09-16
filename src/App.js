@@ -11,8 +11,8 @@ function App() {
   return (
     <div>
       <Capa />
-      <Introdução/>
       <Sumario />
+      <Introdução/>
       <PrimeiroEnc />
       <SegundoEnc />
       <Conclusão />

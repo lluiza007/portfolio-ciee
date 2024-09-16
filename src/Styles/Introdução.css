@@ -1,8 +1,8 @@
 .container{
    
-    background-color: black;
+    background-color: greenyellow;
     border-radius: 10px;
-    border: 2px solid black;
+    border: 2px solid greenyellow;
     color: black;
     display: flex;
     align-items: center;
@@ -16,7 +16,7 @@
 
 .name{
     width: 50%;
-    background-color: aqua;
+    background-color: #01B09F;
     height: 400px;
     margin: 0;
     border:2px solid black;
@@ -34,6 +34,6 @@
 }
 
 .image{
-    
+    width: 150px;
     }
     

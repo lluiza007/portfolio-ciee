@@ -14,12 +14,8 @@ const Introducao = () => {
                 <h1 className="h1">Quem Sou Eu?</h1>
                 <p>Olá, me chamo Luiza Oyara Garcia Abreu, tenho 17 anos e estou atualmente cursando o último ano do ensino médio.</p>
                  
-            </div>
-
-            <div className="image">
-                <img src={Portifolio} alt="portifolio"></img>
-
-            </div>
+                <img className="image" src={Portifolio} alt="portifolio"></img>
+                </div>
 
         </div>
     )
