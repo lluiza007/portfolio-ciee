@@ -1,42 +1,14 @@
-.container{
+.caixa{
     background-color: white;
-    color: black;
-    text-align: center;
-    border: 2px solid black;
-    padding: 20px;
     border-radius: 10px;
-    height: 80vh;
+    border: 2px;
+    color: black;
+    margin-top: auto;
+    height: 400px;
+    text-align: center;
 }
 
 .nome{
-    font-size: 45px;
-    font-family: initial;
-    width:300px;
-    position:absolute;
-    top:170px;
-    right:40%;
-}
-
-.portifolio{
-    font-family: cursive;
-    font-size: 40px;
-    width: 200px;
-    position: absolute;
-    top: 250px;
-    right: 43%;
-}
-
-.nav{
-    text-align: justify;
-    margin-top: 10%;
-    top: 175px;
-    position:absolute;
-}
-
-.h2{
-    font-size:35px;
-    width: 350px;
-    position: absolute;
-    top:380px;
-    right: 38%;
+    font-family: cousive;
+    font-size: 50px;
 }

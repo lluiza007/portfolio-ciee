@@ -5,7 +5,7 @@ import "./Introdução.css";
 const Introducao = () => {
     return (
         <div className="container">
-            <div className="nome">
+            <div className="name">
                 <h1>O Que É O Portfólio CIEE?</h1>
                 <p className="p">Esse portfólio, em específico, é uma atividade que reúne os principais registros dos encontros online do Programa CIEE, a fim de mostrar para as empresas o que nos foi ensinado.</p>
             </div>

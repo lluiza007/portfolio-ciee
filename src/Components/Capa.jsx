@@ -7,7 +7,7 @@ import "./Capa.css";
 
 const Capa = () => {
     return (
-        <div className="container">
+        <div className="caixa">
 
             <h1 className="nome">Luiza Oyara</h1>
 
@@ -28,6 +28,8 @@ const Capa = () => {
             <img src={Ciee} alt="ciee" style={{width: '200px', position: 'absolute', top: '500px', right: '85%' }}/>
 
             <img src={Sicoob} alt="sicoob" style={{width: '220px', position: 'absolute', top:'515px', right: '70%', }}/>
+
+
 
         </div>
     )
