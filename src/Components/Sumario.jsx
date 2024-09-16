@@ -1,8 +1,9 @@
 import React from "react";
+import '../Styles/Sumario.css'
 
 const Sumario = () => {
     return (
-        <div style={{backgroundColor: 'greenyellow', color: 'black', textAlign: 'center', border: '2px solid black', padding: '0', borderRadius: '10px', margin:'5px 0', height: '400px'}}> 
+        <div className="body"> 
 
         <h1>Sumário</h1>
         
