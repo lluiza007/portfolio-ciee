@@ -1,8 +1,16 @@
 .primeiro{
-    background-color: #01B09F;
-    color: black;
+    background-color: yellowgreen;
+    color: white;
     text-align: center;
     padding: 0;
-    margin:5px 0;
-    height: 400px;
+    height: 500px;
+    font-family: cabin;
+}
+
+.eca{
+    border: none;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+
 }
