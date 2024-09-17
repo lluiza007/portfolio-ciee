@@ -1,5 +1,6 @@
 import React from "react";
 import '../Styles/SegundoEnc.css';
+import Cdt from'../img/cdt.png';
 
 const SegundoEnc = () => {
     return (
@@ -30,13 +31,23 @@ const SegundoEnc = () => {
                     <br></br>
                     <li>Remuneração;</li>
                 </ul>
+                <br></br>
 
             </div>
             <div className="empregador">
             <h2>Direitos e deveres do empregador:</h2>
-
-
+            <br></br>
+            <ul className="ul2">
+                <li>Exigir lealdade pra com o empregado;</li>
+                <br></br>
+                <li>Tem poder de organizar e comandar;</li>
+                <br></br>
+                <li>Tem que remunerar seu empregado;</li>
+                <br></br>
+                <li>Dar condições de trabalho digna para seus empregados;</li>
+            </ul>
             </div>
+            <img src={Cdt} alt="cdt" className="cdt" />
             
         </div>
        

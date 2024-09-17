@@ -14,14 +14,25 @@
 }
 
 .ul{
-    margin: 150px;
+    margin: 200px;
     margin-top: 10px;
     margin-bottom: 0%;
     text-align: left;
 }
 
 .empregador{
-    text-align: right;
-    
-    
+    width: 50%;
+    text-align: center;
+}
+
+.ul2{
+    margin: 200px;
+    margin-top: 10px;
+}
+
+.cdt{
+    border: none;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
 }
