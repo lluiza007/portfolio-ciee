@@ -1,6 +1,7 @@
 import React from 'react';
 import '../Styles/Header.css';
 import Sicoob from '../img/sicoob.png'
+import Sumario from './Sumario';
 
 const Header = ({ abrirSumario }) => {
   return (

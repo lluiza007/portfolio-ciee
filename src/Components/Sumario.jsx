@@ -19,12 +19,12 @@ const Sumario = () => {
                     <li onClick={() => handleItemClick('#page2')}>01. O QUE É O PORTIFOLIO CIEE.................Pg.2</li>
                     <li onClick={() => handleItemClick('#page3')}>02. QUEM SOU EU............................................Pg.3</li>
                     <li onClick={() => handleItemClick('#page4')}>03. ENCONTRO 1 - Leis Da Aprendizagem......Pg.4</li>
-                    <li onClick={() => handleItemClick('#page5')}>04. ENCONTRO 2- ..............................................Pg.5</li>
-                    <li onClick={() => handleItemClick('#page6')}>05. ENCONTRO 3- ..............................................Pg.6</li>
-                    <li onClick={() => handleItemClick('#page7')}>06. ENCONTRO 4- ..............................................Pg.7</li>
-                    <li onClick={() => handleItemClick('#page8')}>07. ENCONTRO 5- ..............................................Pg.8</li>
-                    <li onClick={() => handleItemClick('#page9')}>08. ENCONTRO 6- ..............................................Pg.9</li>
-                    <li onClick={() => handleItemClick('#page10')}>09. ENCONTRO 7- ............................................Pg.10</li>
+                    <li onClick={() => handleItemClick('#page5')}>04. ENCONTRO 2-Direitos e Deveres do Empregado e Empregador.............................Pg.5</li>
+                    <li onClick={() => handleItemClick('#page6')}>05. ENCONTRO 3- Conceitos e Tipos de Empresa...Pg.6</li>
+                    <li onClick={() => handleItemClick('#page7')}>06. ENCONTRO 4- Ética Profissional........................Pg.7</li>
+                    <li onClick={() => handleItemClick('#page8')}>07. ENCONTRO 5-Relações Interpessoais................Pg.8</li>
+                    <li onClick={() => handleItemClick('#page9')}>08. ENCONTRO 6- Gestão do Tempo........................Pg.9</li>
+                    <li onClick={() => handleItemClick('#page10')}>09. ENCONTRO 7- Saúde do Trabalhador...............Pg.10</li>
                     <li onClick={() => handleItemClick('#page11')}>10. ENCONTRO 8- ............................................Pg.11</li>
                     <li onClick={() => handleItemClick('#page12')}>11. ENCONTRO 9- ............................................Pg.12</li>
                     <li onClick={() => handleItemClick('#page13')}>12. ENCONTRO 10- ..........................................Pg.13</li>

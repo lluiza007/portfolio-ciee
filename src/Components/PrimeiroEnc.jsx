@@ -1,8 +1,9 @@
 import React from "react";
+import '../Styles/PrimeiroEnc.css';
 
 const PrimeiroEnc = () => {
     return (
-        <div style={{backgroundColor: '#01B09F', color: 'black', textAlign: 'center', padding: '0', margin:'5px 0', height: '400px'}}>
+        <div className="primeiro">
 
             <h2>Leis Da Aprendizagem - 09/09/2024</h2>
             <p>No 1<sup>0</sup> encontro, fomos apresentados em uma videoconferência a tutoriais com a professora Thaís e depois as Leis de Aprendizagem. </p>

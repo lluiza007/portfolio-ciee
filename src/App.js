@@ -7,6 +7,7 @@ import PrimeiroEnc from './Components/PrimeiroEnc';
 import Conclusão from './Components/Conclusão';
 import SegundoEnc from './Components/SegundoEnc';
 import Header from './Components/Header';
+import TerceiroEnc from './Components/TerceiroEnc';
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
       <Introdução/>
       <PrimeiroEnc />
       <SegundoEnc />
+      <TerceiroEnc />
       <Conclusão />
     </div>  
   );
