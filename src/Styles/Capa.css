@@ -11,12 +11,12 @@
     text-align: center;
     padding: 20px; 
     position: relative;
-    height: 700px;
+    height: 515px;
 }
 
 .nome {
-    font-family: cursive;
-    font-size: 50px; /* Tamanho da fonte */
+    font-family: merriweather;
+    font-size: 60px; /* Tamanho da fonte */
     margin-bottom: 10px; /* Espaçamento abaixo do título */
 }
 

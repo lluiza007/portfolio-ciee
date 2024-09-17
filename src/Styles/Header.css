@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #004643;
+    padding: 20px;
+    color: #ffffff;
+  }
+  
+  .logo-container {
+    flex: 1;
+  }
+  
+  .logo {
+    width: 150px;
+  }
+  
+  .menu-container {
+    flex: 1;
+    text-align: right;
+  }
+  
+  .sumario-btn {
+    background-color: #00a86b;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .sumario-btn:hover {
+    background-color: #008d5d; /* Sombra verde mais escura ao passar o mouse */
+  }
+  

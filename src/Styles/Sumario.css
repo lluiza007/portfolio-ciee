@@ -1,5 +1,5 @@
 .body{
-    background-color: greenyellow;
+    background-color: #065252;
     color: black;
     text-align: center;
     padding: 0;
@@ -9,6 +9,30 @@
 .list{
     text-align: center;
     font-family: bebas neue;
-    
+    max-width: 400px ;
+    margin: 20px auto;
+    padding: 30px;
 }
 
+.list ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.list li{
+    margin-bottom: 10px;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    color: black;
+    line-height: 1;
+}
+
+.list li:last-child{
+    border-bottom: none;
+}
+
+.list li:hover{
+    background-color: lightgreen;
+    cursor: pointer;
+}
