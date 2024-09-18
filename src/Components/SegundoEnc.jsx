@@ -32,6 +32,7 @@ const SegundoEnc = () => {
                     <li>Remuneração;</li>
                 </ul>
                 <br></br>
+                <img src={Cdt} alt="cdt" className="cdt" />
 
             </div>
             <div className="empregador">
@@ -47,7 +48,7 @@ const SegundoEnc = () => {
                 <li>Dar condições de trabalho digna para seus empregados;</li>
             </ul>
             </div>
-            <img src={Cdt} alt="cdt" className="cdt" />
+           
             
         </div>
        
