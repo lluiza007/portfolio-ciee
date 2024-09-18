@@ -2,15 +2,20 @@
     background-color: rgb(6, 82, 82);
     color: white;
     padding: 0;
-    height: 600px;
+    height: 750px;
     font-family: cabin;
 
 }
 
 .org{
-    margin-top: 50px;
+    margin-top: 0px;
     width: 400px;
-    margin-left: 20px;
+    margin-left: 40px;
+}
+
+.empresa{
+    text-align: left;
+    margin-left: 800px;
 }
 
 
