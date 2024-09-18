@@ -1,16 +1,15 @@
-.terceiro{
+.quinto{
     background-color: rgb(6, 82, 82);
     color: white;
+    text-align: center;
     padding: 0;
     height: 600px;
     font-family: cabin;
-
+    width: 100%;
 }
 
-.org{
+.rip{
+    height: 300px;
+    width: 350px;
     margin-top: 50px;
-    width: 400px;
-    margin-left: 20px;
 }
-
-

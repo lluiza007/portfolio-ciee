@@ -1,8 +1,11 @@
 import React from "react";
+import '../Styles/SetimoEnc.css';
 
 const SetimoEnc = () => {
     return (
-        <h1>aa</h1>
+        <div className="setimo">
+            <h1 style={{textAlign:'center', fontSize:'40px'}}>Saúde do Trabalhador</h1>
+        </div>
     )
 }
 

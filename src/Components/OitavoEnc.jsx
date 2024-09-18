@@ -1,8 +1,10 @@
 import React from "react";
-
+import '../Styles/Oitavo.css';
 const OitavoEnc = () => {
     return (
-        <h1>aa</h1>
+        <div className="oitavo">
+            <h1 style={{textAlign:'center', fontFamily:'40px'}}>Noções Básicas do Computador</h1>
+        </div>
     )
 }
 

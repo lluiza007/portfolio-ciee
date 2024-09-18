@@ -29,8 +29,8 @@ const QuartoEnc = () => {
                     <li>Honestidade;</li>
                     <li>Respeito;</li>
                     <li>Comunicação;</li>
-                    <li>Honestidade;</li>
-                    <li>Honestidade;</li>
+                    <li>Integridade;</li>
+                    <li>Confidencialidade;</li>
                 </ul>
             </div>
             </div>

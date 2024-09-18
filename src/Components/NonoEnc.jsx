@@ -1,8 +1,11 @@
 import React from "react";
+import '../Styles/NonoEnc.css';
 
 const NonoEnc = () => {
     return (
-        <h1>aa</h1>
+        <div className="nono">
+            <h1 style={{textAlign:'center', fontSize:'40px'}}>Internet e Segurança Digital</h1>
+        </div>
     )
 }
 
