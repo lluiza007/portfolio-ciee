@@ -6,8 +6,9 @@ const TerceiroEnc = () => {
     return (
         <div className="terceiro">
             <br></br>
-            <h1>Conceitos e Tipos de Empresa</h1>
+            <h1 style={{fontSize: '40px'}}>Conceitos e Tipos de Empresa</h1>
             <h3>O 3 <sup>0</sup> encontro ensinou sobre os perfis de empresa</h3>
+            <p></p>
             
             <img src={Organograma} alt="org" className="org"/>
         </div>
