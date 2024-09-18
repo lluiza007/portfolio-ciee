@@ -3,6 +3,11 @@
     color: white;
     text-align: center;
     padding: 0;
-    height: 400px;
+    height: 700px;
     font-family: cabin;
+}
+
+.org{
+    margin-top: 300px;
+    width: 400px;
 }

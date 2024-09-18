@@ -3,9 +3,10 @@
     color: white;
     text-align: center;
     padding: 0;
-    height: 700px;
+    height: 600px;
     font-family: cabin;
     width: 100%;
+    justify-content: space-between;
 }
 
 .empregado{
@@ -20,19 +21,26 @@
     text-align: left;
 }
 
-.empregador{
-    width: 50% right;
-    text-align: center;
-}
 
-.ul2{
+.lu{
     margin: 200px;
     margin-top: 10px;
+    margin-bottom: 0;
+    text-align: left;
 }
 
-.cdt{
+.carteira{
     border: none;
     padding: 20px;
+}
+.cdt{
     width: 200px;
     height: 200px;
+}
+
+.div{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
 }
