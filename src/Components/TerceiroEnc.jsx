@@ -19,7 +19,7 @@ const TerceiroEnc = () => {
             <div className="empresa" style={{display:'block', width:'100%', marginTop:'70px', textAlign:'left'}}>
                 <h2>Perfis de uma empresa</h2>
                  <br></br>
-                 <ul>
+                 <ul style={{textAlign:'left', marginRight:'130px'}}>
                 <li>Perfil SUBJETIVO: A empresa é o empresário, pois empresário é quem exercita a atividade econômica organizada, de forma continuada.</li>
                 <br></br>
                 <li>Perfil FUNCIONAL:  A empresa é uma atividade, que realiza produção e circulação de bens e serviços, mediante organização de fatores de produção </li>
