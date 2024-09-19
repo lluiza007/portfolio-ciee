@@ -8,6 +8,7 @@ const SegundoEnc = () => {
             
             <br></br>
             <h1>Direitos e Deveres do Empregado e Empregador</h1>
+            <h3>O 2<sup>o</sup> encontro nos mostrou sobre direitos e deveres</h3>
             <br></br>
             <p>Os direitos e deveres do trabalhador e do empregador são regulados pela Consolidação das Leis do Trabalho (CLT) no Brasil. Ambos têm responsabilidades mútuas que visam garantir um ambiente de trabalho justo e produtivo.</p>
 

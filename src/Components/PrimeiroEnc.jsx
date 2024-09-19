@@ -8,8 +8,8 @@ const PrimeiroEnc = () => {
             <br></br>
 
             <h2>Leis Da Aprendizagem - 09/09/2024</h2>
+            <h3>No 1<sup>o</sup> encontro fomos apresentados a lei da aprendizagem</h3>
             <br></br>
-
             <p>No 1<sup>0</sup> encontro, fomos apresentados em uma videoconferência a tutoriais com a professora Thaís e depois as Leis de Aprendizagem. </p>
             <br></br>
             
