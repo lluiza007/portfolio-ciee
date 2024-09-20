@@ -10,7 +10,7 @@ const SetimoEnc = () => {
             <p style={{textAlign:'center'}}>A Saúde do Trabalhador é o conjunto de atividades do campo da saúde coletiva que se destina, por meio das ações de vigilância epidemiológica e vigilância sanitária, à promoção e proteção da saúde dos trabalhadores, assim como visa à recuperação e reabilitação da saúde dos trabalhadores submetidos aos riscos e agravos advindos das condições de trabalho.</p>
             <br></br>
 
-            <div style={{marginLeft:'30px'}}>
+            <div style={{marginLeft:'30px', width:'50%'}}>
                 <h2>As 5 Principais Regras da NR 17:</h2>
                 <ul>
                     <li>Ergonomia; </li>
@@ -18,6 +18,8 @@ const SetimoEnc = () => {
                     <li>Transporte de cargas;</li>
                     <li>trabalhos manuais;</li>
                     <li>Organização do trabalho.</li>
+                    <br></br>
+                    <h3>O não cumprimento da NR 17 pode gerar multas e penalizações para a empresa que não cumprir as regras.</h3>
                 </ul>
             </div>
         </div>
