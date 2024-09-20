@@ -12,7 +12,9 @@ const Introducao = () => {
 
             <div className="dov">
                 <h1 className="h1">Quem Sou Eu?</h1>
-                <p>Olá, me chamo Luiza Oyara Garcia Abreu, tenho 17 anos e estou atualmente cursando o último ano do ensino médio.</p>
+                <p>Olá, meu nome é Luiza Oyara, tenho 17 anos e estou no último ano do ensino médio. Ao longo da minha trajetória escolar, sempre me interessei por matérias ligadas à tecnologia e ciências humanas. Esse interesse me levou a decidir seguir a carreira de Engenharia de Software, uma área que considero fascinante por unir lógica, criatividade e inovação para resolver problemas do mundo real.
+                Durante o ensino médio, participei de projetos de tecnologia, como a ELITI, o que me ajudou a desenvolver habilidades em programação e a compreender a importância da automação e do desenvolvimento de softwares na sociedade atual. Também explorei o uso de ferramentas como GitHub, npm e React, o que só reforçou minha decisão de entrar para o mundo da programação profissionalmente.
+                Além da escola, gosto de me dedicar a aprender de forma autônoma, seja assistindo vídeos ou fazendo cursos online sobre linguagens de programação e desenvolvimento de sistemas. Meu objetivo ao ingressar na faculdade de Engenharia de Software é me aprofundar nesses conhecimentos e me especializar em áreas como desenvolvimento web, inteligência artificial e segurança digital.</p>
                  
                 <img className="image" src={Portifolio} alt="portifolio"></img>
                 </div>

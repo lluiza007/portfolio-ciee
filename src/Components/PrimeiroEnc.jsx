@@ -6,6 +6,8 @@ const PrimeiroEnc = () => {
     return (
         <div className="primeiro">
             <br></br>
+            <br></br>
+            <br></br>
 
             <h2>Leis Da Aprendizagem - 09/09/2024</h2>
             <h3>No 1<sup>o</sup> encontro fomos apresentados a lei da aprendizagem</h3>
