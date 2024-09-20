@@ -25,9 +25,9 @@ const Sumario = () => {
                     <li onClick={() => handleItemClick('#page8')}>07. ENCONTRO 5-Relações Interpessoais................Pg.8</li>
                     <li onClick={() => handleItemClick('#page9')}>08. ENCONTRO 6- Gestão do Tempo........................Pg.9</li>
                     <li onClick={() => handleItemClick('#page10')}>09. ENCONTRO 7- Saúde do Trabalhador...............Pg.10</li>
-                    <li onClick={() => handleItemClick('#page11')}>10. ENCONTRO 8- ............................................Pg.11</li>
-                    <li onClick={() => handleItemClick('#page12')}>11. ENCONTRO 9- ............................................Pg.12</li>
-                    <li onClick={() => handleItemClick('#page13')}>12. ENCONTRO 10- ..........................................Pg.13</li>
+                    <li onClick={() => handleItemClick('#page11')}>10. ENCONTRO 8- Noção Básica do Computador.Pg.11</li>
+                    <li onClick={() => handleItemClick('#page12')}>11. ENCONTRO 9- .Internet e Segurança Digital......Pg.12</li>
+                    <li onClick={() => handleItemClick('#page13')}>12. ENCONTRO 10- Pacote office...................Pg.13</li>
                     <li onClick={() => handleItemClick('#conclusao')}>13. CONCLUSÃO..............................................Pg.14</li>
                 </ul>
             </nav>
