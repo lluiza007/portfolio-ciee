@@ -6,7 +6,7 @@ const TerceiroEnc = () => {
     return (
         <div className="terceiro">
             <br></br>
-            <h1 style={{fontSize: '40px', textAlign: 'center'}}>Conceitos e Tipos de Empresa</h1>
+            <h1 style={{fontSize: '40px', textAlign: 'center'}}>Conceitos e Tipos de Empresa - 11/09/2024</h1>
             <h3 style={{textAlign: 'center'}}>O 3<sup>o</sup> encontro ensinou sobre os perfis de empresa</h3>
             <h3 style={{textAlign: 'center'}}>-histórico, missão, visão, valores, hierarquia e organograma-</h3>
             <div style={{width:'50%', float:'left'}}>

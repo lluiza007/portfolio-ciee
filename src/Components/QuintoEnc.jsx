@@ -6,7 +6,7 @@ const QuintoEnc = () => {
     return (
         <div className="quinto">
             <br></br>
-        <h1>Relações Interpessoais</h1>
+        <h1>Relações Interpessoais - 13/09/2024</h1>
         <h3>O 5<sup>o</sup> encontro nos fala sobre a importância das relações e vínculos pessoais.</h3>
         <br></br>
         <p>As relações interpessoais são fundamentais para o desenvolvimento pessoal e social de cada indivíduo. Elas envolvem a interação entre pessoas, sejam familiares, amigos, colegas de trabalho ou até desconhecidos, e se baseiam em comunicação, empatia e respeito mútuo. </p>

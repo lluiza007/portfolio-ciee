@@ -4,7 +4,7 @@ import Computador from '../img/computador.jpg';
 const OitavoEnc = () => {
     return (
         <div className="oitavo">
-            <h1 style={{textAlign:'center', fontFamily:'40px'}}>Noções Básicas do Computador</h1>
+            <h1 style={{textAlign:'center', fontFamily:'40px'}}>Noções Básicas do Computador - 18/09/2024</h1>
             <h3 style={{textAlign:'center'}}>No 8<sup>o</sup> encontro, falamos sobre computaçaõ, algumas noções básicas, etc.</h3>
             <br></br>
 

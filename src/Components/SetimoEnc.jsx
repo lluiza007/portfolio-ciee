@@ -4,7 +4,7 @@ import '../Styles/SetimoEnc.css';
 const SetimoEnc = () => {
     return (
         <div className="setimo">
-            <h1 style={{textAlign:'center', fontSize:'40px'}}>Saúde do Trabalhador</h1>
+            <h1 style={{textAlign:'center', fontSize:'40px'}}>Saúde do Trabalhador - 17/09/2024</h1>
             <h3 style={{textAlign:'center'}}>o 7<sup>o</sup> encontro nos mostrou sobre a saúde coletiva</h3>
             <br></br>
             <p style={{textAlign:'center'}}>A Saúde do Trabalhador é o conjunto de atividades do campo da saúde coletiva que se destina, por meio das ações de vigilância epidemiológica e vigilância sanitária, à promoção e proteção da saúde dos trabalhadores, assim como visa à recuperação e reabilitação da saúde dos trabalhadores submetidos aos riscos e agravos advindos das condições de trabalho.</p>

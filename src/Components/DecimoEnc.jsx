@@ -5,7 +5,7 @@ import Pacote from '../img/pacote.png';
 const DecimoEnc = () => {
     return (
         <div className="decimo">
-            <h1 style={{textAlign:'center', fontSize:'40px'}}>Pacote Office</h1>
+            <h1 style={{textAlign:'center', fontSize:'40px'}}>Pacote Office - 20/09/2024</h1>
             <h3 style={{textAlign:'center'}}>No 10<sup>o</sup> encontro fomos apresentados ao pacote office</h3>
             <br></br>
             <p style={{textAlign:'center'}}>Sua importância reside na capacidade de melhorar a produtividade e a eficiência em diversas tarefas. No setor corporativo, ele é fundamental para a elaboração de relatórios, controle de finanças, criação de propostas e organização de dados. Na educação, o Office auxilia na criação de materiais didáticos, como trabalhos acadêmicos e apresentações, além de facilitar a comunicação entre professores e alunos.
