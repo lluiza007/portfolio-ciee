@@ -9,9 +9,7 @@ const Header = ({ abrirSumario }) => {
       <div className="logo-container">
         <img src={Sicoob} alt="Logo Sicoob" className="logo" />
       </div>
-      <div className="menu-container">
-        <button onClick={abrirSumario} className="sumario-btn">Abrir Sumário</button>
-      </div>
+     
     </header>
   );
 };
