@@ -9,7 +9,7 @@ const Capa = () => {
         <div className="caixa">
 
             <h1 className="nome">Luiza Oyara</h1>
-            <h2 className="portifolio">Portifólio</h2>
+            <h2 className="portifolio">Portfólio</h2>
 
             <b>
             <nav>
